@@ -1,0 +1,8 @@
+admin
+take guts of HTML and put in PHP or vice versa whatever is easier
+for my use
+control users
+add or delete from db
+take del away from users and make it admin only
+FULL CRUD for all fields on one form?
+can add to drop downs
